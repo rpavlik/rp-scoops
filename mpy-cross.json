@@ -1,0 +1,8 @@
+{
+  "version": "6.1.0-107-g0dfa9fb7c",
+  "license": "MIT",
+  "homepage": "https://circuitpython.org",
+  "hash": "BA3E6161CD7CCF2AFE2C9D83E6720AC6E72E90B392171652CFCF4C7348585E3B",
+  "url": "https://adafruit-circuit-python.s3.amazonaws.com/bin/mpy-cross/mpy-cross.static-x64-windows-6.1.0-107-g0dfa9fb7c.exe#/mpy-cross.exe",
+  "bin": "mpy-cross.exe"
+}
