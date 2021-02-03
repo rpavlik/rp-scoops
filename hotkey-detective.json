@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "license": "GPL-3",
+  "url": "https://github.com/ITachiLab/hotkey-detective/releases/download/1.0.0/hotkey-detective-1.0.0.zip",
+  "hash": "7EF8D02B1AE82CA48D9B3240212ECB1C0F8DE604D628CF0778A091F652C6B609",
+  "homepage": "https://github.com/ITachiLab/hotkey-detective",
+  "shortcuts": [
+    [
+      "Hotkey Detective (32-bit)",
+      "x86\\HotkeyDetective.exe"
+    ],
+    [
+      "Hotkey Detective (64-bit)",
+      "x64\\HotkeyDetective.exe"
+    ]
+  ]
+}
