@@ -6,12 +6,12 @@
   "homepage": "https://github.com/ITachiLab/hotkey-detective",
   "shortcuts": [
     [
-      "Hotkey Detective (32-bit)",
-      "x86\\HotkeyDetective.exe"
+      "x86\\HotkeyDetective.exe",
+      "Hotkey Detective (32-bit)"
     ],
     [
-      "Hotkey Detective (64-bit)",
-      "x64\\HotkeyDetective.exe"
+      "x64\\HotkeyDetective.exe",
+      "Hotkey Detective (64-bit)"
     ]
   ]
 }
