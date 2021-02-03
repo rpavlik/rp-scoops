@@ -13,5 +13,9 @@
       "x64\\HotkeyDetective.exe",
       "Hotkey Detective (64-bit)"
     ]
-  ]
+  ],
+  "checkver": {
+    "url": "https://github.com/ITachiLab/hotkey-detective/releases",
+    "regex": "hotkey-detective-([\\d.]+)\\.zip"
+  }
 }
