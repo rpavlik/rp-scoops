@@ -1,10 +1,9 @@
 {
-  "version": "3.7.7",
+  "version": "3.8.1",
   "homepage": "https://www.uwe-sieber.de/usbtreeview_e.html",
   "architecture": {
     "64bit": {
-      "url": "https://www.uwe-sieber.de/files/UsbTreeView_x64.zip",
-      "hash": "1d775dff5edf8a142f7422b5376e74711a72781f4a8cc2cc837a12d985244532"
+      "url": "https://www.uwe-sieber.de/files/UsbTreeView_x64.zip"
     },
     "32bit": {
       "url": "https://www.uwe-sieber.de/files/UsbTreeView_Win32.zip"
