@@ -2,10 +2,20 @@
   "version": "1.0.25",
   "hash": "eac26cc15da0b519fbfe126c2e05c40239a94f22ad49eeb5236142283e592435",
   "license": "Apache-2.0",
-  "bin": [
-    "openxr_loader_windows/x64/bin/hello_xr.exe",
-    "openxr_loader_windows/x64/bin/openxr_runtime_list.exe"
-  ],
+  "architecture": {
+    "64bit": {
+      "bin": [
+        "openxr_loader_windows/x64/bin/hello_xr.exe",
+        "openxr_loader_windows/x64/bin/openxr_runtime_list.exe"
+      ]
+    },
+    "32bit": {
+      "bin": [
+        "openxr_loader_windows/Win32/bin/hello_xr.exe",
+        "openxr_loader_windows/Win32/bin/openxr_runtime_list.exe"
+      ]
+    }
+  },
   "url": "https://github.com/KhronosGroup/OpenXR-SDK-Source/releases/download/release-1.0.25/openxr_loader_windows-1.0.25.zip",
   "homepage": "https://github.com/KhronosGroup/OpenXR-SDK-Source"
 }
