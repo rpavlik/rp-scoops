@@ -1,19 +1,19 @@
 {
-  "version": "3.8.1",
-  "homepage": "https://www.uwe-sieber.de/usbtreeview_e.html",
-  "architecture": {
-    "64bit": {
-      "url": "https://www.uwe-sieber.de/files/UsbTreeView_x64.zip"
+    "version": "3.8.1",
+    "homepage": "https://www.uwe-sieber.de/usbtreeview_e.html",
+    "architecture": {
+        "64bit": {
+            "url": "https://www.uwe-sieber.de/files/UsbTreeView_x64.zip"
+        },
+        "32bit": {
+            "url": "https://www.uwe-sieber.de/files/UsbTreeView_Win32.zip"
+        }
     },
-    "32bit": {
-      "url": "https://www.uwe-sieber.de/files/UsbTreeView_Win32.zip"
-    }
-  },
-  "license": "Freeware",
-  "shortcuts": [
-    [
-      "UsbTreeView.exe",
-      "USB Device Tree Viewer"
+    "license": "Freeware",
+    "shortcuts": [
+        [
+            "UsbTreeView.exe",
+            "USB Device Tree Viewer"
+        ]
     ]
-  ]
 }
