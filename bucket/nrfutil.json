@@ -1,9 +1,12 @@
 {
-    "version": "v6.1",
-    "url": "https://github.com/NordicSemiconductor/pc-nrfutil/releases/download/v6.1/nrfutil.exe",
+    "version": "6.1.7",
+    "url": "https://github.com/NordicSemiconductor/pc-nrfutil/releases/download/v6.1.7/nrfutil.exe",
     "bin": "nrfutil.exe",
-    "hash": "bad92f3309163b0f81443a0b615cd1692783184b75b5aebab873fa2929ca23ba",
+    "hash": "fee3aeed1843a4bffc082747cea60dc072929eb36e67d62c8a3fd7471e0dc92d",
     "license": "https://github.com/NordicSemiconductor/pc-nrfutil/blob/master/LICENSE",
     "homepage": "https://github.com/NordicSemiconductor/pc-nrfutil",
-    "checkver": "github"
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/NordicSemiconductor/pc-nrfutil/releases/download/v$version/nrfutil.exe"
+    }
 }

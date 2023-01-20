@@ -1,8 +1,8 @@
 {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "license": "GPL-3",
-    "url": "https://github.com/ITachiLab/hotkey-detective/releases/download/1.0.0/hotkey-detective-1.0.0.zip",
-    "hash": "7EF8D02B1AE82CA48D9B3240212ECB1C0F8DE604D628CF0778A091F652C6B609",
+    "url": "https://github.com/ITachiLab/hotkey-detective/releases/download/1.1.0/hotkey-detective-1.1.0.zip",
+    "hash": "a1c0027d32c2346fd4cb98d63dc9f2b5e861f75653809983fea8afbd16d7aa35",
     "homepage": "https://github.com/ITachiLab/hotkey-detective",
     "shortcuts": [
         [
@@ -14,5 +14,8 @@
             "Hotkey Detective (64-bit)"
         ]
     ],
-    "checkver": "github"
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/ITachiLab/hotkey-detective/releases/download/$version/hotkey-detective-$version.zip"
+    }
 }
