@@ -1,10 +1,10 @@
 {
-    "version": "1.0.26",
+    "version": "1.0.27",
     "description": "The OpenXR SDK tools and samples.",
     "homepage": "https://github.com/KhronosGroup/OpenXR-SDK-Source",
     "license": "Apache-2.0",
-    "url": "https://github.com/KhronosGroup/OpenXR-SDK-Source/releases/download/release-1.0.26/openxr_loader_windows-1.0.26.zip",
-    "hash": "319180d29db20060522efb3c05a34aa90ee704756b8b762ec2f3b09d952e03e6",
+    "url": "https://github.com/KhronosGroup/OpenXR-SDK-Source/releases/download/release-1.0.27/openxr_loader_windows-1.0.27.zip",
+    "hash": "3fe090bdfc980aac525aeeafd0b95cd3663949d0a6e59fbc50d9a10461a8d477",
     "extract_dir": "openxr_loader_windows",
     "architecture": {
         "64bit": {
