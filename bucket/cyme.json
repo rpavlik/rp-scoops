@@ -1,0 +1,14 @@
+{
+  "bin": "cyme.exe",
+  "url": "https://github.com/tuna-f1sh/cyme/releases/download/v2.1.2/cyme-v2.1.2-x86_64-pc-windows-gnu.zip",
+  "extract_dir": "cyme-v2.1.2-x86_64-pc-windows-gnu",
+  "license": "GPL-3",
+  "hash": "5bb570838d65a294ce7d1e985f49c8018c6a268d0772e0a51cc41bc6aa4dcb74",
+  "version": "2.1.2",
+  "description": "List all USB devices and details in a user friendly way",
+  "homepage": "https://github.com/tuna-f1sh/cyme",
+    "autoupdate": {
+        "extract_dir": "cyme-v$version-x86_64-pc-windows-gnu",
+        "url": "https://github.com/tuna-f1sh/cyme/releases/download/v$version/cyme-v$version-x86_64-pc-windows-gnu.zip"
+    }
+}
